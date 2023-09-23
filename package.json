@@ -1,0 +1,46 @@
+{
+  "name": "react-native-animated-waddle-number",
+  "version": "1.0.0",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "description": "Module that shows number changes through simple animation",
+  "scripts": {
+    "lint": "yarn eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willyngash/react-native-animated-waddle-number.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-component",
+    "ios",
+    "android",
+    "react",
+    "animation",
+    "text",
+    "number"
+  ],
+  "author": "youngsoohan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willyngash/react-native-animated-waddle-number/issues"
+  },
+  "homepage": "https://github.com/willyngash/react-native-animated-waddle-number/blob/main/README.md",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.66",
+    "react-native-gesture-handler": "1.10.3",
+    "react-native-reanimated": ">=3"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-plugin-react": "^7.20.3"
+  },
+  "dependencies": {
+    "react-native-gesture-handler": "^2.12.1",
+    "react-native-reanimated": "^3.4.2"
+  }
+}
